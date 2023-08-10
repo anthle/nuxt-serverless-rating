@@ -1,64 +1,27 @@
-# Nuxt 3 Minimal Starter
+投票demo
+========
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+一款基于云原生开发的投票系统，依托于 Vercel 的部署环境。(学习自@meathill.)
 
-## Setup
+使用的技术和产品：
 
-Make sure to install the dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-# nuxt-serverless-rating
+1. Nuxt.js
+    1. 提供 Vue 开发环境
+    2. 提供 SSR 能力
+    3. 提供 API 环境
+2. Vercel
+    1. 提供部署环境和各项网站能力
+    2. 提供 Edge Function
+    3. 免费额度足够用很久
+3. Upstash
+    1. Redis
+    2. 免费额度足够用很久
+4. TiDB Cloud Serverless
+    1. HTTP endpoint
+    2. 免费额度足够用很久 
+5. 其它
+    1. Nuxt-i18n 
+    2. TailwindCSS
+    3. DaisyUI
+    4. GitHub
+    5. pnpm
