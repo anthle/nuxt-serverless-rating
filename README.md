@@ -1,7 +1,7 @@
-投票demo
+rating system
 ========
 
-一款基于云原生开发的投票系统，依托于 Vercel 的部署环境。(学习自@meathill.)
+一款基于云原生开发的评分系统，依托于 Vercel 的部署环境。(学习自@meathill.)
 
 使用的技术和产品：
 
